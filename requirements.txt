@@ -1,0 +1,19 @@
+librairies - dépendances
+
+streamlit
+awesome_streamlit
+requests
+bs4
+lxml
+re
+nltk
+pyaramorph
+spacy
+pathlib
+wordcloud
+arabic_reshaper
+python-bidi
+stop-words
+sys
+os
+matplolib
